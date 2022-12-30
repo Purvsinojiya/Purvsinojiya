@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Sinojiya Purv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/SWoSkN6DxTszqIKEqv?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fcoding-man_1098-18084.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fprogramming&tbnid=PupU2iivVQkWlM&vet=10CL0BEDMovAFqFwoTCKDy_6XfofwCFQAAAAAdAAAAABAC..i&docid=fNUHSk21lDyjFM&w=2000&h=1334&q=readme%20file%20image%20for%20coder&ved=0CL0BEDMovAFqFwoTCKDy_6XfofwCFQAAAAAdAAAAABAC)">
+<img src="https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+        " alt="">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvsinojiya" alt="purvsinojiya" /></a> </p>
 
 
