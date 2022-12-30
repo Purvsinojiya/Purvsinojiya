@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sinojiya Purv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
-        " alt="">
+<img src="C:\Users\hp\Pictures\WallpaperDog-5473790.jpg" alt="">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvsinojiya" alt="purvsinojiya" /></a> </p>
 
 
