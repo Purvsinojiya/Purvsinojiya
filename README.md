@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sinojiya Purv</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/hp/Desktop/%C4%B0zmir%20Agency%20GIF%20-%20Find%20&%20Share%20on%20GIPHY.html">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvsinojiya" alt="purvsinojiya" /></a> </p>
 
 - 🔭 I’m currently working on **zomato**
